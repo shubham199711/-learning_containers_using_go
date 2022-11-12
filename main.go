@@ -1,13 +1,13 @@
 package main
 
 import (
-    "fmt",
-    "io/ioutil",
-    "os",
-    "os/exec",
-    "path/filepath",
-    "strconv",
-    "syscall",
+    "fmt"
+    "io/ioutil"
+    "os"
+    "os/exec"
+    "path/filepath"
+    "strconv"
+    "syscall"
 )
 
 func main(){
